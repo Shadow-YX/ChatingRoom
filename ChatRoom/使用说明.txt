@@ -1,0 +1,2 @@
+先启动ChatServer服务器
+再打开ChatRoomClient，可多开，测试在本地IP 127.0.0.1 9527端口
